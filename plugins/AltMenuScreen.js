@@ -5,7 +5,7 @@
 
 (() => {
     // Window_Base.prototype.updateTone = function() {
-    //     this.setTone(168, 50, 60);
+    //     this.setTone(255, 255, 255);
     // };
     //Window_Base.prototype.drawRect = function(x, y, width, height) {
         //const outlineColor = "#ffffff";
